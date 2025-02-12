@@ -4,4 +4,3 @@ public class MyFirstApp {
         System.out.println("работает везде!!!");
     }
 }
- 
