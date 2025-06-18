@@ -35,7 +35,7 @@ public class VariableNamesTheme {
         System.out.println("Процент по вкладу = " + depositInterest + " руб.");
 
         // Переменная хранит символ &
-        char symbolStorage = '\u0026';
+        char symbolStorage = '&';
         System.out.println("Переменная хранит символ - " + symbolStorage);
 
         // Код ошибки
